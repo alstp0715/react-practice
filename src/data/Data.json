@@ -1,0 +1,60 @@
+{
+    "galleryData": [
+        {
+            "id": 1,
+            "title": "slidera01",
+            "date": "2023-01-01",
+            "imageSrc": "https://cdn.pixabay.com/photo/2024/01/04/09/34/plant-8486960_640.png"
+        },
+        {
+            "id": 2,
+            "title": "sliderb02",
+            "date": "2023-02-01",
+            "imageSrc": "https://cdn.pixabay.com/photo/2023/11/12/15/42/fox-8383319_640.jpg"
+        },
+        {
+            "id": 3,
+            "title": "sliderc03",
+            "date": "2023-03-01",
+            "imageSrc": "https://cdn.pixabay.com/photo/2023/12/28/14/09/cat-8474233_640.png"
+        },
+        {
+            "id": 4,
+            "title": "sliderc04",
+            "date": "2023-03-01",
+            "imageSrc": "https://cdn.pixabay.com/photo/2023/12/28/14/09/cat-8474233_640.png"
+        },
+        {
+            "id": 5,
+            "title": "sliderc05",
+            "date": "2023-03-01",
+            "imageSrc": "https://cdn.pixabay.com/photo/2024/01/04/09/34/plant-8486960_640.png"
+        }
+    ],
+    "noticeData": [
+        {
+            "id": 1,
+            "title": "noticea01",
+            "date": "2023-01-01",
+            "content": "notice-test01"
+        },
+        {
+            "id": 2,
+            "title": "noticeb02",
+            "date": "2023-02-01",
+            "content": "notice-test02"
+        },
+        {
+            "id": 3,
+            "title": "noticec03",
+            "date": "2023-03-01",
+            "content": "notice-test03"
+        },
+        {
+            "id": 4,
+            "title": "noticec04",
+            "date": "2023-03-01",
+            "content": "notice-test04"
+        }
+    ]
+}
